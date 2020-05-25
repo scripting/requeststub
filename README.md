@@ -1,2 +1,4 @@
-# requeststub
-Node has deprecated request, this is my stub. Call this instead of request, so when it comes time to switch, it'll be easier.
+# daverequest
+
+This is where I put my JavaScript code to generate RSS feeds from my apps, running in the browser and in Node. 
+

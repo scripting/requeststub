@@ -1,0 +1,18 @@
+{
+	"name": "daverequest",
+	"description": "Node has deprecated request, this is my stub. Call this instead of request, so when it comes time to switch, it'll be easier.",
+	"author": "Dave Winer <dave@scripting.com>",
+	"license": "MIT",
+	"version": "0.4.0",
+	"main": "daverequest.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/scripting/requeststub.git"
+		},
+	"files": [
+		"daverequest.js"
+		],
+	"dependencies": {
+		"daveutils": "*"
+		} 
+	}
